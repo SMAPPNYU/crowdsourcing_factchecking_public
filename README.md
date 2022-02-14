@@ -59,4 +59,8 @@ We also performed a robustness check with different distributions of data:
 - `test_alternatives.ipynb` - this file creates these distributions
 - `robustness_checks.ipynb` - applies the ML algorithms to these distributions
 
+## Erratum
+
+This code was updated in February 2022 to reflect a correction to the file results_updated. The original version of results_updated is now saved as results_updated_original. The original version of results updated incorrectly reversed the calculation for false positives and false negatives.
+
 
